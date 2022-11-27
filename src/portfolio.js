@@ -173,7 +173,7 @@ const workExperiences = {
       company: "Universiti Sains Malaysia",
       companylogo: require("./assets/images/airbnbLogo.png"),
       date: "Aug 2021 – April 2022",
-      desc: "Assisted Master research students in developing the Malay Emotion and Crypto Currency Tweet Corpus to evaluate models for linguistically based emotion classification."
+      desc: "Assisted Master research students in developing the Malay Emotion and Crypto Currency Tweet Corpus to evaluate models for linguistically based emotion classification.",
       descBullets: [
         "Managed to annotate 21 000+ Malay tweets individually",
         "Collaborated with 2 annotators and the 2 researchers for annotation discussion"
