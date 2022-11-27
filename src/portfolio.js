@@ -152,13 +152,13 @@ const workExperiences = {
   experience: [
     {
       role: "Teaching Assistant for Software Engineering",
-      company: "School of Computer Sciences Universiti Sains Malaysia",
+      company: "Universiti Sains Malaysia",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "October 2022 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      desc: "Responsible to conduct tutorial session for all Year 2 CS students and help students to strengthen foundations of software engineering.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Including aspects of software processes, requirements engineering, system modelling, system architecture and system design, system implementation, system testing, system maintenance and project management",
+        "The focus is on the discipline required as best practices using Agile method"
       ]
     },
     {
@@ -169,11 +169,15 @@ const workExperiences = {
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
+      role: "Data Annotator",
+      company: "Universiti Sains Malaysia",
       companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      date: "Aug 2021 – April 2022",
+      desc: "Assisted Master research students in developing the Malay Emotion and Crypto Currency Tweet Corpus to evaluate models for linguistically based emotion classification."
+      descBullets: [
+        "Managed to annotate 21 000+ Malay tweets individually",
+        "Collaborated with 2 annotators and the 2 researchers for annotation discussion"
+      ]
     }
   ]
 };
