@@ -296,7 +296,7 @@ const talkSection = {
       title: "My Creative Resume CAT 402",
       subtitle: "Aqilah Syahirah binti Shahabudin_148346",
       slides_url: "https://youtu.be/imkBpwNlHiQ",
-      event_url: "https://www.facebook.com/events/2339906106275053/"
+      event_url: "https://www.linkedin.com/in/aqilah-syahirah-5959b6228/"
     }
   ],
   display: true // Set false to hide this section, defaults to true
