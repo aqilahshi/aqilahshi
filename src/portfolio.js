@@ -103,7 +103,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Universiti Sains Malaysia",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/usm.png"),
       subHeader: "Bachelor of Science in Computer Science, Major: Software Engineering",
       duration: "September 2019 - August 2023",
       descBullets: [
@@ -156,7 +156,7 @@ const workExperiences = {
     {
       role: "Teaching Assistant for Software Engineering",
       company: "Universiti Sains Malaysia",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/usm.png"),
       date: "October 2022 – Present",
       desc: "Responsible to conduct tutorial session for all Year 2 CS students",
       descBullets: [
@@ -167,7 +167,7 @@ const workExperiences = {
     {
       role: "Front-End Developer Intern",
       company: "Telebort",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/telebort.png"),
       date: "March 2022 – August 2022",
       desc: "Responsible in creating a brand new website for the company.",
       descBullets: [
@@ -179,7 +179,7 @@ const workExperiences = {
     {
       role: "Data Annotator",
       company: "Universiti Sains Malaysia",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/usm.png"),
       date: "Aug 2021 – April 2022",
       desc: "Assisted Master research students in developing the Malay Emotion and Crypto Currency Tweet Corpus to evaluate models for linguistically based emotion classification.",
       descBullets: [
@@ -204,7 +204,7 @@ const bigProjects = {
   title: "Projects",
   projects: [
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/telebort.webp"),
       projectName: "Telebort Website",
       projectDesc: "Responsible in developing a brand new website",
       footerLink: [
@@ -267,7 +267,7 @@ const achievementSection = {
     },
 
     {
-      title: "JOURNAL STUDIOr",
+      title: "JOURNAL STUDIO",
       subtitle: "Create a website that can help to keep track of the thoughts, ideas, and tasks in simple way. This online notepad can help for organizing notes and reminders or as a place to store important information",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
