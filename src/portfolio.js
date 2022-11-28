@@ -221,8 +221,8 @@ const bigProjects = {
       projectDesc: "Create a website MoneyMe that aims for children and teach them on how to manage their saving effectively.",
       footerLink: [
         {
-          name: "Github Link",
-          url: "https://github.com/aqilahshi/MoneyMe-1"
+          name: "Visit Website",
+          url: "http://nextu.se/"
         }
       ]
     }
@@ -251,15 +251,14 @@ const achievementSection = {
       subtitle:
         "This is a group project that examines and identifies vulnerabilities of the OWASP Juice Shop systems.",
       image: require("./assets/images/owasp.png"),
-      imageAlt: "Google Assistant Action Logo",
+      imageAlt: "Google Code-In Logo",
       footerLink: [
         {
           name: "Github",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
         }
       ]
     },
-
     {
       title: "JOURNAL STUDIO",
       subtitle: "Create a website that can help to keep track of the thoughts, ideas, and tasks in simple way. This online notepad can help for organizing notes and reminders or as a place to store important information",
@@ -268,7 +267,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Github", 
-         url: "https://github.com/aqilahshi/JOURNAL-STUDIO"
+         url: ""
         }
       ]
     }
