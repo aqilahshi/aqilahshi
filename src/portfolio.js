@@ -256,7 +256,7 @@ const achievementSection = {
       title: "RIZQI SDG SOLUTION",
       subtitle:
         "“Rizqi” is a Web App for the USM community that plays an important role in collecting and distributing surplus food and non-food for the needy, provided that the food that is going to be distributed is still edible.",
-      image: require("./assets/images/owasp.png"),
+      image: require("./assets/images/feed.png"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
