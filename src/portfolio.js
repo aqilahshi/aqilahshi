@@ -112,14 +112,14 @@ const educationInfo = {
     },
     {
       schoolName: "Kolej Matrikulasi Pulau Pinang",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/kmpp.png"),
       subHeader: "Foundation in pure science",
       duration: "April 2018 - March 2019",
       descBullets: ["CGPA 3.75"]
     },
     {
       schoolName: "Sekolah Menengah Agama Al-Irshad",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/smai.png"),
       subHeader: "Sijil Pelajaran Malaysia",
       duration: "January 2013 - December 2017",
       descBullets: ["SPM: 10As, 1B"]
@@ -167,7 +167,7 @@ const workExperiences = {
     {
       role: "Front-End Developer Intern",
       company: "Telebort",
-      companylogo: require("./assets/images/telebort.png"),
+      companylogo: require("./assets/images/Telebortt.png"),
       date: "March 2022 – August 2022",
       desc: "Responsible in creating a brand new website for the company.",
       descBullets: [
@@ -216,7 +216,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/hlb.png"),
       projectName: "Can you hack it, ASEAN addition",
       projectDesc: "Create a website MoneyMe that aims for children and teach them on how to manage their saving effectively.",
       footerLink: [
@@ -243,7 +243,7 @@ const achievementSection = {
       title: "GRAPH ALGORITHM RANDOM CITY",
       subtitle:
         "A small project that visualizes a graph with 5 nodes of capital state and verifies the status of the graph when the vertex is allocated.",
-      image: require("./assets/images/codeInLogo.webp"),
+      image: require("./assets/images/phyton.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
@@ -256,7 +256,7 @@ const achievementSection = {
       title: "OWASP Penetration Test",
       subtitle:
         "This is a group project that examines and identifies vulnerabilities of the OWASP Juice Shop systems.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
+      image: require("./assets/images/owasp.png"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
@@ -269,7 +269,7 @@ const achievementSection = {
     {
       title: "JOURNAL STUDIO",
       subtitle: "Create a website that can help to keep track of the thoughts, ideas, and tasks in simple way. This online notepad can help for organizing notes and reminders or as a place to store important information",
-      image: require("./assets/images/pwaLogo.webp"),
+      image: require("./assets/images/html.png"),
       imageAlt: "PWA Logo",
       footerLink: [
         {
