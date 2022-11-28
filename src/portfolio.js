@@ -248,7 +248,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Github",
-          url: ""
+          url: "https://github.com/aqilahshi/Graph-Algorithms-Random-City"
         }
       ]
     },
