@@ -19,7 +19,7 @@ export default function TalkCard({talkDetails}) {
               Link
             </a>
             <a href={talkDetails.event_url} target="_" className="talk-button">
-              Event
+              Linkedin
             </a>
           </div>
         </div>
