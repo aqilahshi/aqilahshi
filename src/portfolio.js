@@ -204,7 +204,7 @@ const bigProjects = {
   title: "Projects",
   projects: [
     {
-      image: require("./assets/images/telebort.webp"),
+      image: require("./assets/images/telebort.png"),
       projectName: "Telebort Website",
       projectDesc: "Responsible in developing a brand new website",
       footerLink: [
