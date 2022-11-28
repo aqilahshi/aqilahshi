@@ -293,8 +293,8 @@ const talkSection = {
 
   talks: [
     {
-      title: "Build Actions For Google Assistant",
-      subtitle: "Codelab at GDG DevFest Karachi 2019",
+      title: "My Creative Resume CAT 402",
+      subtitle: "Aqilah Syahirah binti Shahabudin_148346,
       slides_url: "https://bit.ly/saadpasta-slides",
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
