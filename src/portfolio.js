@@ -248,7 +248,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Github",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: ""
         }
       ]
     },
@@ -257,7 +257,13 @@ const achievementSection = {
       subtitle:
         "This is a group project that examines and identifies vulnerabilities of the OWASP Juice Shop systems.",
       image: require("./assets/images/owasp.png"),
-      imageAlt: "Google Assistant Action Logo"
+      imageAlt: "Google Assistant Action Logo",
+      footerLink: [
+        {
+          name: "Github",
+          url: ""
+        }
+      ]
     },
 
     {
