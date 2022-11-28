@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://studentusm-my.sharepoint.com/:b:/g/personal/aqilahera_student_usm_my/EdxQBOpmetFDtSCxLUC9j1sBArJjrYY_wZkNZ-f2C4jnBg?e=BwFFX5", // Set to empty to hide the button
+    "https://studentusm-my.sharepoint.com/:b:/g/personal/aqilahera_student_usm_my/EathWzDInctCrCXNyJ8P2ckBUWdTgxA5zCdkaJRH3FnoBw?e=pA6K9A", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
