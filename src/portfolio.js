@@ -323,6 +323,7 @@ export {
   educationInfo,
   techStack,
   workExperiences,
+  openSource,
   bigProjects,
   achievementSection,
   talkSection,
