@@ -244,13 +244,6 @@ const achievementSection = {
       subtitle:
         "A small project that visualizes a graph with 5 nodes of capital state and verifies the status of the graph when the vertex is allocated.",
       image: require("./assets/images/phyton.png"),
-      imageAlt: "Google Code-In Logo"
-    },
-    {
-      title: "OWASP Penetration Test",
-      subtitle:
-        "This is a group project that examines and identifies vulnerabilities of the OWASP Juice Shop systems.",
-      image: require("./assets/images/owasp.png"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
@@ -259,6 +252,20 @@ const achievementSection = {
         }
       ]
     },
+    {
+      title: "OWASP Penetration Test",
+      subtitle:
+        "This is a group project that examines and identifies vulnerabilities of the OWASP Juice Shop systems.",
+      image: require("./assets/images/owasp.png"),
+      imageAlt: "Google Assistant Action Logo",
+      footerLink: [
+        {
+          name: "Github",
+          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+        }
+      ]
+    },
+
     {
       title: "JOURNAL STUDIO",
       subtitle: "Create a website that can help to keep track of the thoughts, ideas, and tasks in simple way. This online notepad can help for organizing notes and reminders or as a place to store important information",
