@@ -294,7 +294,7 @@ const talkSection = {
   talks: [
     {
       title: "My Creative Resume CAT 402",
-      subtitle: "Aqilah Syahirah binti Shahabudin_148346,
+      subtitle: "Aqilah Syahirah binti Shahabudin_148346",
       slides_url: "https://bit.ly/saadpasta-slides",
       event_url: "https://www.facebook.com/events/2339906106275053/"
     }
