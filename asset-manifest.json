@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.edb6f5a8.chunk.css",
-    "main.js": "/static/js/main.80aeb20e.chunk.js",
-    "main.js.map": "/static/js/main.80aeb20e.chunk.js.map",
+    "main.js": "/static/js/main.5ecaaa9d.chunk.js",
+    "main.js.map": "/static/js/main.5ecaaa9d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6c4f7ce5.js",
     "runtime-main.js.map": "/static/js/runtime-main.6c4f7ce5.js.map",
     "static/js/2.8530952d.chunk.js": "/static/js/2.8530952d.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.192564eb.chunk.js": "/static/js/4.192564eb.chunk.js",
     "static/js/4.192564eb.chunk.js.map": "/static/js/4.192564eb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bd671cfafb7a7dcc8a6132b2ef3c6001.js": "/precache-manifest.bd671cfafb7a7dcc8a6132b2ef3c6001.js",
+    "precache-manifest.3d8d155b7ad30a01de4403aed0e67b68.js": "/precache-manifest.3d8d155b7ad30a01de4403aed0e67b68.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/static/css/4.d7ceb645.chunk.css.map",
@@ -24,11 +24,11 @@
     "static/media/Telebortt.png": "/static/media/Telebortt.ea389dc8.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.59389695.svg",
+    "static/media/feed.png": "/static/media/feed.e4b82b64.png",
     "static/media/hlb.png": "/static/media/hlb.5215df04.png",
     "static/media/html.png": "/static/media/html.d503bc7d.png",
     "static/media/kmpp.png": "/static/media/kmpp.e5974bfc.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
-    "static/media/owasp.png": "/static/media/owasp.2440c0a5.png",
     "static/media/phyton.png": "/static/media/phyton.369bcb96.png",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
     "static/media/smai.png": "/static/media/smai.e1a9d094.png",
@@ -40,6 +40,6 @@
     "static/js/runtime-main.6c4f7ce5.js",
     "static/js/2.8530952d.chunk.js",
     "static/css/main.edb6f5a8.chunk.css",
-    "static/js/main.80aeb20e.chunk.js"
+    "static/js/main.5ecaaa9d.chunk.js"
   ]
 }
