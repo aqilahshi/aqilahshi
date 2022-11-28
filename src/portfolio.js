@@ -221,8 +221,8 @@ const bigProjects = {
       projectDesc: "Create a website MoneyMe that aims for children and teach them on how to manage their saving effectively.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Github Link",
+          url: "https://github.com/aqilahshi/MoneyMe-1"
         }
       ]
     }
@@ -244,13 +244,7 @@ const achievementSection = {
       subtitle:
         "A small project that visualizes a graph with 5 nodes of capital state and verifies the status of the graph when the vertex is allocated.",
       image: require("./assets/images/phyton.png"),
-      imageAlt: "Google Code-In Logo",
-      footerLink: [
-        {
-          name: "Github",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        }
-      ]
+      imageAlt: "Google Code-In Logo"
     },
     {
       title: "OWASP Penetration Test",
@@ -274,7 +268,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Github", 
-         url: ""
+         url: "https://github.com/aqilahshi/JOURNAL-STUDIO"
         }
       ]
     }
