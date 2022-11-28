@@ -23,7 +23,7 @@ const greeting = {
   username: "Aqilah Syahirah",
   title: "Hi all, I'm Aqilah",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -118,8 +118,15 @@ const educationInfo = {
       schoolName: "Kolej Matrikulasi Pulau Pinang",
       logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "Foundation in pure science",
-      duration: "April 2018 - Mar 2019",
+      duration: "April 2018 - March 2019",
       descBullets: ["CGPA 3.75"]
+    },
+    {
+      schoolName: "Sekolah Menengah Agama Al-Irshad",
+      logo: require("./assets/images/stanfordLogo.png"),
+      subHeader: "Sijil Pelajaran Malaysia",
+      duration: "January 2013 - December 2017",
+      descBullets: ["SPM: 10As, 1B"]
     }
   ]
 };
@@ -131,11 +138,11 @@ const techStack = {
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "90%" //Insert relative proficiency in percentage
+      progressPercentage: "80%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
-      progressPercentage: "70%"
+      progressPercentage: "60%"
     },
     {
       Stack: "Programming",
@@ -155,9 +162,9 @@ const workExperiences = {
       company: "Universiti Sains Malaysia",
       companylogo: require("./assets/images/facebookLogo.png"),
       date: "October 2022 – Present",
-      desc: "Responsible to conduct tutorial session for all Year 2 CS students and help students to strengthen foundations of software engineering.",
+      desc: "Responsible to conduct tutorial session for all Year 2 CS students",
       descBullets: [
-        "Including aspects of software processes, requirements engineering, system modelling, system architecture and system design, system implementation, system testing, system maintenance and project management",
+        "Help students to strengthen foundations of software engineering including aspects of software processes, requirements engineering, system modelling, system architecture and system design, system implementation, system testing, system maintenance and project management",
         "The focus is on the discipline required as best practices using Agile method"
       ]
     },
@@ -166,7 +173,12 @@ const workExperiences = {
       company: "Telebort",
       companylogo: require("./assets/images/quoraLogo.png"),
       date: "March 2022 – August 2022",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Responsible in create a brand new website for the company.",
+      descBullets: [
+        "Gather and analyze user requirements from the stakeholder",
+        "Create user flows, wireframes, prototypes, and mockups",
+        "Translate user requirements into style guides, design systems, design patterns and attractive user interfaces"
+      ]
     },
     {
       role: "Data Annotator",
@@ -197,7 +209,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+    
       projectName: "Saayahealth",
       projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       footerLink: [
